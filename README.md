@@ -1,2 +1,2 @@
-# bestOfTheBest
-My personal repo for configs
+# BestOfTheBest
+My personal repo for configs. To synchronise configuration files between different machines
